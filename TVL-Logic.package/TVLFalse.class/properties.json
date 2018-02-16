@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TVLBoolean",
+	"category" : "TVL-Logic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TVLFalse",
+	"type" : "normal"
+}
