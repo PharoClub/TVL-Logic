@@ -1,0 +1,4 @@
+logical operations
+conjunctionWithUndefined
+
+	self subclassResponsibility
