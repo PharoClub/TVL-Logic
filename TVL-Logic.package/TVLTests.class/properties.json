@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TVL-Logic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"t",
+		"f",
+		"u"
+	],
+	"name" : "TVLTests",
+	"type" : "normal"
+}
