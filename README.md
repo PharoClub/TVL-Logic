@@ -1,6 +1,6 @@
 # Three-valued logic
 
-This repository contains the implementation of three-valued logic in Pharo created during the second meeting of Pharo Club.
+The implementation of three-valued logic in Pharo created during the second meeting of Pharo Club.
 
 ## Example
 ```Smalltalk
