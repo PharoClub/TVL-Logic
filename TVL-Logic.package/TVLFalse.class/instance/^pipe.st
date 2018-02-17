@@ -1,0 +1,4 @@
+logical operations
+| aBoolean
+
+	^ aBoolean 
